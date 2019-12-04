@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="Need It Table">842fe23edb110010bbeac4ab0b9619da</application>
+        <filter/>
+        <name>Need It Tables</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_406737_need_it.need_it_table_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-27 16:05:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>042fe23edb110010bbeac4ab0b9619dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Need It Tables</sys_name>
+        <sys_package display_value="Need it" source="x_406737_need_it">0800088ddb110010bbeac4ab0b961995</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Need it">0800088ddb110010bbeac4ab0b961995</sys_scope>
+        <sys_update_name>sys_ui_module_042fe23edb110010bbeac4ab0b9619dd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-27 16:05:22</sys_updated_on>
+        <table>x_406737_need_it_need_it_table</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Need it">0800088ddb110010bbeac4ab0b961995</application>
+        <file_path/>
+        <instance_id>12c675ccdb777f0049eac597059619fc</instance_id>
+        <instance_name>dev93005</instance_name>
+        <name>sys_ui_module_042fe23edb110010bbeac4ab0b9619dd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Need It Table">842fe23edb110010bbeac4ab0b9619da</application><filter/><name>Need It Tables</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_406737_need_it.need_it_table_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-11-27 16:05:22</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>042fe23edb110010bbeac4ab0b9619dd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Need It Tables</sys_name><sys_package display_value="Need it" source="x_406737_need_it">0800088ddb110010bbeac4ab0b961995</sys_package><sys_policy/><sys_scope display_value="Need it">0800088ddb110010bbeac4ab0b961995</sys_scope><sys_update_name>sys_ui_module_042fe23edb110010bbeac4ab0b9619dd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-11-27 16:05:22</sys_updated_on><table>x_406737_need_it_need_it_table</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>-372077874</payload_hash>
+        <record_name>Need It Tables</record_name>
+        <reverted_from/>
+        <source>0800088ddb110010bbeac4ab0b961997</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-27 16:05:22</sys_created_on>
+        <sys_id>402fe23edb110010bbeac4ab0b9619e0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ead9c28090000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-27 16:05:22</sys_updated_on>
+        <type>Module</type>
+        <update_guid>882fe23eae110010f06ae6d7ce5810df</update_guid>
+        <update_guid_history>882fe23eae110010f06ae6d7ce5810df:-372077874</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-27 16:06:17</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>0b4bbf5d1b944ee293421ba95b0f5e69</sys_id>
+        <sys_metadata>042fe23edb110010bbeac4ab0b9619dd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Need It Tables</sys_name>
+        <sys_package display_value="Need it" source="x_406737_need_it">0800088ddb110010bbeac4ab0b961995</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Need it">0800088ddb110010bbeac4ab0b961995</sys_scope>
+        <sys_scope_delete display_value="">016c7eb5318849b1b9590316575d0a99</sys_scope_delete>
+        <sys_update_name>sys_ui_module_042fe23edb110010bbeac4ab0b9619dd</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_042fe23edb110010bbeac4ab0b9619dd">402fe23edb110010bbeac4ab0b9619e0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-27 16:06:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

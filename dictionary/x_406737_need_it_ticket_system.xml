@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="live_feed=true" label="Ticket System" max_length="40" name="x_406737_need_it_ticket_system" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Ticket Number" mandatory="true" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Updated On" max_length="40" name="u_glide_date_9" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Created On" mandatory="true" max_length="40" name="u_glide_date_time_1" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Request/Issue" max_length="40" name="u_string_1" type="string">
+            <choice>
+                <element inactive="true" inactive_on_update="true" label="Choice 3" sequence="0" value="Choice 3"/>
+                <element inactive_on_update="false" label="Request" sequence="0" value="request"/>
+                <element inactive_on_update="false" label="Issue" sequence="1" value="issue"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Short Description" mandatory="true" max_length="40" name="u_string_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Requested for" max_length="40" name="u_string_3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Priority" max_length="40" name="u_string_4" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Low" sequence="0" value="low"/>
+                <element inactive_on_update="false" label="Medium" sequence="1" value="medium"/>
+                <element inactive_on_update="false" label="High" sequence="2" value="high"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Requested by" max_length="40" name="u_string_5" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="State" max_length="40" name="u_string_6" type="string">
+            <choice>
+                <element inactive_on_update="false" label="New" sequence="0" value="new"/>
+                <element inactive_on_update="false" label="Active" sequence="1" value="active"/>
+                <element inactive_on_update="false" label="Working" sequence="2" value="working"/>
+                <element inactive_on_update="false" label="Resolved" sequence="3" value="resolved"/>
+                <element inactive_on_update="false" label="Closed" sequence="4" value="closed"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Requested for" max_length="40" name="u_string_7" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Updated by" max_length="40" name="u_string_8" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" mandatory="true" max_length="255" name="u_string_full_utf8_3" type="string_full_utf8"/>
+        <element attributes="edge_encryption_enabled=true" label="Notes" mandatory="true" max_length="255" name="u_string_full_utf8_7" type="string_full_utf8"/>
+    </element>
+</database>

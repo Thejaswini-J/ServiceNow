@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_406737_need_it_ticket_system" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_406737_need_it_ticket_system" element="NULL" name="x_406737_need_it_ticket_system" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e1e3ce89db210010bbeac4ab0b96197d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-04 12:42:50</sys_created_on>
+            <sys_id>a9e3ce89db210010bbeac4ab0b96197e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-04 12:42:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_string_1</element>
+            <list_id display_value="x_406737_need_it_ticket_system" element="NULL" name="x_406737_need_it_ticket_system" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e1e3ce89db210010bbeac4ab0b96197d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-04 12:42:50</sys_created_on>
+            <sys_id>a1e3ce89db210010bbeac4ab0b96197f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-04 12:42:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_string_2</element>
+            <list_id display_value="x_406737_need_it_ticket_system" element="NULL" name="x_406737_need_it_ticket_system" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e1e3ce89db210010bbeac4ab0b96197d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-04 12:42:50</sys_created_on>
+            <sys_id>25e3ce89db210010bbeac4ab0b96197f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-04 12:42:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_string_3</element>
+            <list_id display_value="x_406737_need_it_ticket_system" element="NULL" name="x_406737_need_it_ticket_system" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e1e3ce89db210010bbeac4ab0b96197d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-04 12:42:50</sys_created_on>
+            <sys_id>a5e3ce89db210010bbeac4ab0b96197f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-04 12:42:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_string_4</element>
+            <list_id display_value="x_406737_need_it_ticket_system" element="NULL" name="x_406737_need_it_ticket_system" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e1e3ce89db210010bbeac4ab0b96197d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-04 12:42:50</sys_created_on>
+            <sys_id>29e3ce89db210010bbeac4ab0b96197f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-04 12:42:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_string_6</element>
+            <list_id display_value="x_406737_need_it_ticket_system" element="NULL" name="x_406737_need_it_ticket_system" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e1e3ce89db210010bbeac4ab0b96197d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-04 12:42:50</sys_created_on>
+            <sys_id>a9e3ce89db210010bbeac4ab0b96197f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-04 12:42:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_string_full_utf8_3</element>
+            <list_id display_value="x_406737_need_it_ticket_system" element="NULL" name="x_406737_need_it_ticket_system" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e1e3ce89db210010bbeac4ab0b96197d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-04 12:42:50</sys_created_on>
+            <sys_id>2de3ce89db210010bbeac4ab0b96197f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-04 12:42:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_string_full_utf8_7</element>
+            <list_id display_value="x_406737_need_it_ticket_system" element="NULL" name="x_406737_need_it_ticket_system" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e1e3ce89db210010bbeac4ab0b96197d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-04 12:42:50</sys_created_on>
+            <sys_id>ade3ce89db210010bbeac4ab0b96197f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-04 12:42:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_406737_need_it_ticket_system</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-04 12:42:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e1e3ce89db210010bbeac4ab0b96197d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_406737_need_it_ticket_system</sys_name>
+            <sys_package display_value="Need it" source="x_406737_need_it">0800088ddb110010bbeac4ab0b961995</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Need it">0800088ddb110010bbeac4ab0b961995</sys_scope>
+            <sys_update_name>sys_ui_list_x_406737_need_it_ticket_system_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-04 12:42:50</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

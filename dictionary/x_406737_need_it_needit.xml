@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="NeedIT" max_length="40" name="x_406737_need_it_needit" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="DOJ" max_length="40" name="u_glide_date_8" type="glide_date"/>
+        <element label="Experience" max_length="40" name="u_integer_9" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" default="NI00000" label="Employee ID" mandatory="true" max_length="40" name="u_string_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Designation" max_length="40" name="u_string_5" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Manager" max_length="40" name="u_string_6" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Employee Name" mandatory="true" max_length="255" name="u_string_full_utf8_3" type="string_full_utf8"/>
+    </element>
+</database>
