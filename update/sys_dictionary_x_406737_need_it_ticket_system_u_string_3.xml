@@ -6,10 +6,10 @@
         <attributes>edge_encryption_enabled=true</attributes>
         <audit>false</audit>
         <calculation/>
-        <choice>0</choice>
+        <choice>1</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>Requested for</column_label>
+        <column_label>Team</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -48,15 +48,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-12-04 12:23:52</sys_created_on>
-        <sys_id>fb8f7585db210010bbeac4ab0b9619d8</sys_id>
+        <sys_id>00243471dba10010bbeac4ab0b961936</sys_id>
         <sys_mod_count>2</sys_mod_count>
-        <sys_name>Requested for</sys_name>
+        <sys_name>Team</sys_name>
         <sys_package display_value="Need it" source="x_406737_need_it">0800088ddb110010bbeac4ab0b961995</sys_package>
         <sys_policy/>
         <sys_scope display_value="Need it">0800088ddb110010bbeac4ab0b961995</sys_scope>
         <sys_update_name>sys_dictionary_x_406737_need_it_ticket_system_u_string_3</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-12-04 12:44:52</sys_updated_on>
+        <sys_updated_on>2019-12-12 14:32:40</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

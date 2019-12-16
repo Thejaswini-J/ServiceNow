@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_string_3" table="x_406737_need_it_ticket_system" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_3</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Human Resource</label>
+            <language>en</language>
+            <name>x_406737_need_it_ticket_system</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-12 14:32:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dcc9ebe7dba10010bbeac4ab0b961981</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-12 14:32:40</sys_updated_on>
+            <value>human resource</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_3</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IT</label>
+            <language>en</language>
+            <name>x_406737_need_it_ticket_system</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-12 14:32:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>14c9ebe7dba10010bbeac4ab0b961983</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-12 14:32:40</sys_updated_on>
+            <value>it</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_3</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Addmin</label>
+            <language>en</language>
+            <name>x_406737_need_it_ticket_system</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-12 14:32:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>90c9ebe7dba10010bbeac4ab0b961984</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-12 14:32:40</sys_updated_on>
+            <value>addmin</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_3</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Customer Service</label>
+            <language>en</language>
+            <name>x_406737_need_it_ticket_system</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-12 14:32:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>10c9ebe7dba10010bbeac4ab0b961985</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-12 14:32:40</sys_updated_on>
+            <value>customer service</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_3</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Research</label>
+            <language>en</language>
+            <name>x_406737_need_it_ticket_system</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-12 14:36:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eaaaab2bdba10010bbeac4ab0b961943</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-12 14:36:38</sys_updated_on>
+            <value>research</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_3</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Facilities</label>
+            <language>en</language>
+            <name>x_406737_need_it_ticket_system</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-12 14:36:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6aaaab2bdba10010bbeac4ab0b961944</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-12 14:36:38</sys_updated_on>
+            <value>facilities</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_3</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_406737_need_it_ticket_system</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-13 16:52:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5d43dd44dbb54010bbeac4ab0b961953</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-13 16:52:09</sys_updated_on>
+            <value>other</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_string_3</element>
+            <name>x_406737_need_it_ticket_system</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-12 14:32:40</sys_created_on>
+            <sys_id>58c9ebe7dba10010bbeac4ab0b961982</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_string_3</sys_name>
+            <sys_package display_value="Need it" source="x_406737_need_it">0800088ddb110010bbeac4ab0b961995</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Need it">0800088ddb110010bbeac4ab0b961995</sys_scope>
+            <sys_update_name>sys_choice_x_406737_need_it_ticket_system_u_string_3</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-12 14:32:40</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

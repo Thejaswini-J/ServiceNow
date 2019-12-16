@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="u_string_3" label="Requested for" language="en" table="x_406737_need_it_ticket_system">
+    <sys_documentation element="u_string_3" label="Team" language="en" table="x_406737_need_it_ticket_system">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>u_string_3</element>
             <help/>
             <hint/>
-            <label>Requested for</label>
+            <label>Team</label>
             <language>en</language>
             <name>x_406737_need_it_ticket_system</name>
-            <plural>Requested for</plural>
+            <plural>Teams</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2019-12-04 12:23:52</sys_created_on>
-            <sys_id>f78f7585db210010bbeac4ab0b9619da</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_name>Requested for</sys_name>
+            <sys_id>c0243471dba10010bbeac4ab0b961936</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Team</sys_name>
             <sys_package display_value="Need it" source="x_406737_need_it">0800088ddb110010bbeac4ab0b961995</sys_package>
             <sys_policy/>
             <sys_scope display_value="Need it">0800088ddb110010bbeac4ab0b961995</sys_scope>
             <sys_update_name>sys_documentation_x_406737_need_it_ticket_system_u_string_3_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-12-04 12:23:52</sys_updated_on>
+            <sys_updated_on>2019-12-12 14:32:40</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
